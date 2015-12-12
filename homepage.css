@@ -54,12 +54,13 @@ a{
 .mapwrapper{
 	width: 105%;
 	background-color: ;
-	height: auto;
+	height: 80%;
 	margin-left: -10px;
 }
 
 #mapparent{
 	width: 88.5%;
+	height: 100%;
 	margin-left: 4%;
 	margin-top: 30px;
 }
