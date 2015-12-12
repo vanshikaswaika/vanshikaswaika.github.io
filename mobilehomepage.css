@@ -7,7 +7,7 @@ body{
 	background-color: red;
 	font-family: parsonsengraved;
 	text-transform: uppercase;
-	font-size: 70pt;
+	font-size: 40pt;
 	color: black;
 	height: auto;
 	width: 100%;
@@ -35,7 +35,23 @@ a{
 	display: inline-block;
 	height: 20px;
 	margin-left: 4%;
-	margin-top: 40px;
+	margin-top: 50px;
+}
+
+.hovertextparent{
+	background-color: yellow;
+	width: 300px;
+	display: inline-block;
+	height: 100px;
+	position: relative;
+	float: right;
+	margin-top: -40px;
+	margin-right: 8%;
+}
+
+#hovertext{
+	position: relative;
+	font-size: 40pt;
 }
 
 .mapwrapper {
