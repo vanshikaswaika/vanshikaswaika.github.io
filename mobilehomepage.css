@@ -7,14 +7,15 @@ body{
 	background-color: red;
 	font-family: parsonsengraved;
 	text-transform: uppercase;
-	font-size: 24pt;
+	font-size: 70pt;
 	color: black;
 	height: auto;
+	width: 100%;
 }
 
 .searchbarwrapper{
 	width: 110%;
-	height: 100px;
+	height: 150px;
 	border-width: 0px 0px 4px 0px;
 	border-color: black;
 	border-style: solid;
@@ -26,26 +27,30 @@ body{
 a{
 	text-decoration: none;
 	color: black;
-	width: 100%
 }
 
 .searchtextparent{
-	background-color:blue ;
+	background-color: ;
 	width: 70%;
 	display: inline-block;
-	height: 30px;
+	height: 20px;
 	margin-left: 4%;
-	margin-top: 20px;
+	margin-top: 40px;
 }
 
-.mapwrapper{
-  width: 100%;
-  margin-top: 40px;
-  -webkit-transform: rotate(270deg);
-  -moz-transform: rotate((270deg));
-  -ms-transform: rotate(270deg);
-  -o-transform: rotate(270deg);
-  transform: rotate(270deg);
+.mapwrapper {
+ 	margin-top: 50%;
+ 	width: 150%;
+ 	margin-left: -300px;
+  	-webkit-transform: rotate(270deg);
+  	-moz-transform: rotate((270deg));
+  	-ms-transform: rotate(270deg);
+  	-o-transform: rotate(270deg);
+  	transform: rotate(270deg);
+}
+
+#mapparent{
+	width: 100%;
 }
 
 	
