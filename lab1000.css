@@ -11,9 +11,8 @@ body{
   color: red;
   height: 90%;
   background-color: black;
-  min-width: 900px;
+  min-width: 1100px;
   height: 90%;
-  min-height: 90%;
 }
 
 .heading-wrapper{
@@ -30,6 +29,11 @@ body{
   display: inline-block;
   font-size: 24pt;
   margin-left: 30px;
+}
+
+a{
+  text-decoration: none;
+  color: red;
 }
 
 .room-wrapper{
@@ -62,6 +66,8 @@ body{
   position: relative;
   width: 48%;
   height: 35%;
+  min-height: 35%;
+  overflow: hidden;
   display: inline-block;
   float: right;
   border-width: 0px 0px 4px 4px;
@@ -77,6 +83,7 @@ body{
   line-height: 30pt;
   margin-top: 10px;
   margin-left: 10px;
+  overflow: hidden;
 }
 
 .sign-subheading{
