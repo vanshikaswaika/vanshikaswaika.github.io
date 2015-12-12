@@ -9,7 +9,6 @@ body{
 	text-transform: uppercase;
 	font-size: 24pt;
 	color: black;
-	height: auto;
 }
 
 .searchbarwrapper{
