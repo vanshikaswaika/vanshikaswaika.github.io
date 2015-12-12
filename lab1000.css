@@ -12,6 +12,7 @@ body{
   height: 90%;
   background-color: black;
   min-width: 900px;
+  min-height: 90%;
 }
 
 .heading-wrapper{
