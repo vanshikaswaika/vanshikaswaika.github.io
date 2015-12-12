@@ -53,7 +53,7 @@ a{
 .mapwrapper{
 	width: 105%;
 	background-color: ;
-	height: auto;
+	height: 100%;
 	margin-left: -10px;
 }
 
