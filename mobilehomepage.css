@@ -38,7 +38,7 @@ a{
 	margin-top: 20px;
 }
 
-.mapwrapper{
+.mapparent{
   width: 100%;
   -webkit-transform: rotate(270deg);
   -moz-transform: rotate((270deg));
