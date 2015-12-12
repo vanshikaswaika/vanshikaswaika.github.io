@@ -7,14 +7,14 @@ body{
 	background-color: red;
 	font-family: parsonsengraved;
 	text-transform: uppercase;
-	font-size: 18pt;
+	font-size: 24pt;
 	color: black;
 	height: auto;
 }
 
 .searchbarwrapper{
 	width: 110%;
-	height: 70px;
+	height: 100px;
 	border-width: 0px 0px 4px 0px;
 	border-color: black;
 	border-style: solid;
@@ -40,6 +40,7 @@ a{
 
 .mapwrapper{
   width: 100%;
+  margin-top: 40px;
   -webkit-transform: rotate(270deg);
   -moz-transform: rotate((270deg));
   -ms-transform: rotate(270deg);
