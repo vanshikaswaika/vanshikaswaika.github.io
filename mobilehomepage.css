@@ -1,3 +1,13 @@
+@font-face{
+  font-family: parsonsengraved;
+  src: url('Assets/Vanshika_110.ttf');
+}
+
 body{
-	background-color: blue;
+	background-color: red;
+	font-family: parsonsengraved;
+	text-transform: uppercase;
+	font-size: 24pt;
+	color: black;
+	height: auto;
 }
