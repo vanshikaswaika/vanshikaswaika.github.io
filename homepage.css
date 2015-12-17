@@ -16,7 +16,7 @@ body{
 
 	body{
 	background-color: red;
-	font-size: 36pt;
+	font-size: 46pt;
 	}
 
 	.searchbarwrapper{
@@ -32,6 +32,7 @@ body{
 a{
 	text-decoration: none;
 	color: black;
+	font-size: 46pt;
 
 }
 
