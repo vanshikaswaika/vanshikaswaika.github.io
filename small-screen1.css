@@ -1,0 +1,74 @@
+@font-face{
+  font-family: parsonsengraved;
+  src: url('Assets/Vanshika_110.ttf');
+}
+
+body{
+	background-color: red;
+	font-family: parsonsengraved;
+	text-transform: uppercase;
+	font-size: 24pt;
+	color: black;
+	height: auto;
+}
+
+
+.searchbarwrapper{
+	width: 105%;
+	height: 90px;
+	border-width: 0px 0px 4px 0px;
+	border-color: black;
+	border-style: solid;
+	margin-left: -10px;
+	margin-top: 0px;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+.searchtextparent{
+	background-color: ;
+	width: 100%;
+	display: inline-block;
+	height: 40px;
+	margin-left: 4%;
+	margin-top: 20px;
+}
+
+.hovertextparent{
+	background-color: ;
+	width: 300px;
+	display: inline-block;
+	height: 40px;
+	position: relative;
+	float: right;
+	margin-top: 40px;
+	margin-right: 8%;
+}
+
+#hovertext{
+	position: relative;
+}
+
+.mapwrapper{
+	width: 105%;
+	background-color: ;
+	height: 80%;
+	float: left;
+
+}
+
+#mapparent{
+	width: 130%;
+	height: 100%;
+	margin-left: -15%;
+	margin-top: 0px;
+		-webkit-transform: rotate(270deg);
+    -moz-transform: rotate((270deg));
+    -ms-transform: rotate(270deg);
+    -o-transform: rotate(270deg);
+    transform: rotate(270deg);
+}
+
