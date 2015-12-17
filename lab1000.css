@@ -11,7 +11,9 @@ body{
   color: red;
   height: 90%;
   background-color: black;
-  min-width: 1100px;
+
+  min-width: 1110px;
+
   height: 100%;
 }
 
@@ -50,12 +52,16 @@ a{
 }
 
 .room-signs{
+  position: absolute;
   display: inline-block;
   width: 50%;
   min-height: 100%;
+  margin-top: -610px;
 }
 
 .lab1000signs{
+  min-width: 100%;
+  max-width: 100%;
   position: relative;
   width: 100%;
   height: 100%;
@@ -63,6 +69,8 @@ a{
 }
 
 .text-wrapper{
+  min-width: 48%;
+  max-width: 48%;
   position: relative;
   width: 48%;
   height: 35%;
@@ -76,6 +84,7 @@ a{
 }
 
 .sign{
+  min-width: 85%;
   position: relative;
   font-size: 24pt;
   padding: 15px;
