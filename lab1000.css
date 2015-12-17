@@ -12,7 +12,7 @@ body{
   height: 90%;
   background-color: black;
 
-  min-width: 1110px;
+
 
   height: 100%;
 }
@@ -52,11 +52,10 @@ a{
 }
 
 .room-signs{
-  position: absolute;
+
   display: inline-block;
   width: 50%;
   min-height: 100%;
-  margin-top: -610px;
 }
 
 .lab1000signs{
