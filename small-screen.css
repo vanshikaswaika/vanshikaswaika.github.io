@@ -12,13 +12,6 @@ body{
 	height: auto;
 }
 
-@media only screen and (max-device-width: 480px) {
-
-	body{
-	background-color: blue;
-	}
-
-}
 
 .searchbarwrapper{
 	width: 105%;
@@ -37,7 +30,7 @@ a{
 
 .searchtextparent{
 	background-color: ;
-	width: 50%;
+	width: 100%;
 	display: inline-block;
 	height: 30px;
 	margin-left: 4%;
@@ -51,7 +44,7 @@ a{
 	height: 40px;
 	position: relative;
 	float: right;
-	margin-top: 13px;
+	margin-top: 40px;
 	margin-right: 8%;
 }
 
@@ -63,13 +56,19 @@ a{
 	width: 105%;
 	background-color: ;
 	height: 80%;
-	margin-left: -10px;
+	float: left;
+
 }
 
 #mapparent{
-	width: 88.5%;
+	width: 130%;
 	height: 100%;
-	margin-left: 4%;
-	margin-top: 30px;
+	margin-left: -15%;
+	margin-top: 0px;
+		-webkit-transform: rotate(270deg);
+    -moz-transform: rotate((270deg));
+    -ms-transform: rotate(270deg);
+    -o-transform: rotate(270deg);
+    transform: rotate(270deg);
 }
 
