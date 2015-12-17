@@ -16,12 +16,12 @@ body{
 
 	body{
 	background-color: red;
-	font-size: 46pt;
+	font-size: 56pt;
 	}
 
 	.searchbarwrapper{
 	width: 105%;
-	height: 100px;
+	height: 150px;
 	border-width: 0px 0px 4px 0px;
 	border-color: black;
 	border-style: solid;
