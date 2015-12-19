@@ -29,6 +29,20 @@ body{
   float: left;
 }
 
+.backarrow{
+  width: 50px;
+  height: auto;
+  margin-top: 10px;
+}
+
+.homeicon{
+  display: inline-block;
+  float: right;
+  margin-right: 30px;
+  margin-top: 0px;
+background-color: ;
+}
+
 p{
   display: inline-block;
   font-size: 24pt;
@@ -46,7 +60,7 @@ p{
   text-indent: 40px;
   line-height: 50px;
   border: none;
-  margin-left: 75px;
+  margin-left: 0px;
   margin-top: 40px;
   color: transparent;
   text-shadow: 1px 0px 0px red;

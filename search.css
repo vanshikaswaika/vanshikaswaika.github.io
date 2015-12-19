@@ -8,6 +8,7 @@ body{
 	font-size: 24pt;
 	text-transform: uppercase;
 	width: 100%;
+  min-width: 650px;
 }
 
 .tableview{
@@ -19,6 +20,13 @@ body{
   padding: 5px;
   margin-left: -10px;
 }
+.homeicon{
+  display: inline-block;
+  float: right;
+  margin-right: 30px;
+  margin-top: 0px;
+background-color: ;
+}
 
 .icons{
   margin-left: 30px;
@@ -27,6 +35,12 @@ body{
   height: 50px;
   display: inline-block;
   float: left;
+}
+
+.backarrow{
+  width: 50px;
+  height: auto;
+  margin-top: 10px;
 }
 
 p{
@@ -45,7 +59,7 @@ p{
   text-indent: 40px;
   line-height: 50px;
   border: none;
-  margin-left: 75px;
+  margin-left: 0px;
   margin-top: 10px;
   color: transparent;
   text-shadow: 1px 0px 0px red;
