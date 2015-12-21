@@ -10,6 +10,7 @@ body{
 	font-size: 24pt;
 	color: black;
 	height: auto;
+
 }
 
 @media only screen and (max-device-width: 480px) {
@@ -37,7 +38,7 @@ a{
 
 .searchtextparent{
 	background-color: ;
-	width: 600px;
+	width: 650px;
 	display: inline-block;
 	height: 30px;
 	margin-left: 4%;
@@ -45,11 +46,13 @@ a{
 }
 
 .hovertextparent{
+
 	background-color: ;
 	width: 300px;
 	display: inline-block;
 	height: 40px;
 	position: relative;
+
 	float: right;
 	margin-top: 13px;
 	margin-right: 8%;
