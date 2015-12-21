@@ -138,6 +138,9 @@ a{
   display: inline-block;
   float: right;
   margin-right: 30px;
-  margin-top: -20px;
+  margin-top: -10px;
   background-color: ;
+}
+.forwardarrow{
+  margin-top: 5px;
 }
