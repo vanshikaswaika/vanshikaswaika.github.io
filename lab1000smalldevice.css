@@ -113,8 +113,12 @@ a{
   border-width: 4px 0px 4px 4px;
 }
 
-.leftborder{
-    border-width: 4px 4px 4px 4px;
+.left{
+    border-width: 0px 4px 4px 4px;
+}
+.left2{
+     border-width: 4px 4px 4px 4px;
+
 }
 
 

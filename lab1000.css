@@ -103,9 +103,6 @@ a{
   margin-top: -55px;
   margin-left: 10px;
 }
-.border{
-   border-width: 0px 0px 4px 4px;
-}
 
 
 
@@ -132,4 +129,8 @@ a{
 }
 .one{
   margin-right: -50px;
+}
+
+.border{
+   border-width: 0px 0px 4px 4px;
 }
