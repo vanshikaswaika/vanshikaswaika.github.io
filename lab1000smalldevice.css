@@ -115,5 +115,26 @@ a{
 .leftborder{
     border-width: 4px 0px 4px 4px;
 }
+.homeicon{
+  display: inline-block;
+  float: right;
+  margin-right: 30px;
+  margin-top: -20px;
+  background-color: ;
+}
 
+.icons{
+    margin-right: 50px;
+  margin-top: 5px;
+  position: relative;
+  height: 50px;
+  display: inline-block;
+  float: left;
+}
+
+.backarrow{
+  width: 50px;
+  height: auto;
+  margin-top: -10px;
+}
 
